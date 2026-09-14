@@ -1,6 +1,6 @@
 # Hi, I'm Aniss 👋
 
-4th-year engineering student, **Artificial Intelligence** specialization. I build retrieval systems, AI agents and full-stack applications.
+4th-year engineering student, **Artificial Intelligence And Data Science** specialization. I build retrieval systems, AI agents and full-stack applications.
 
 🇫🇷 [Version française](README.fr.md)
 
