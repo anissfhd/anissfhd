@@ -28,6 +28,11 @@ Un an de mesures horaires de capteurs, et deux détecteurs d'anomalies qui ne s'
 
 `pandas` `scikit-learn` `Isolation Forest` `Régression Ridge` `Jupyter`
 
+### [AR 3D Menu](https://github.com/anissfhd/ar-3d-menu)
+Une carte de restaurant en réalité augmentée : les photos d'un plat deviennent un vrai modèle 3D par photogrammétrie, nettoyé de ses fragments parasites et remis à sa **taille réelle**, puis posé sur la table du client depuis un QR code — sans application, sur Android comme sur iPhone. 101 tests réussis.
+
+`Python` `Flask` `Photogrammétrie` `model-viewer` `WebXR` `ARKit` `Blender`
+
 ### [Sales AI Platform — Spécification](https://github.com/anissfhd/sales-ai-platform-specs)
 Un travail de conception plutôt que du code : environ 68 000 mots définissant une plateforme autonome de prospection B2B multi-pays un cycle de vie en 13 étapes, la conformité comme barrière stricte, et un benchmark fournisseur complet.
 
@@ -36,6 +41,16 @@ Un travail de conception plutôt que du code : environ 68 000 mots définissant 
 ---
 
 ## 💻 Développement logiciel
+
+### [Site d'un cabinet de psychologie](https://github.com/anissfhd/cabinet-psychologue-website)
+Un site pensé pour des parents inquiets : une vidéo de fond pilotée par le scroll, **figée sur chaque chapitre puis relancée à la frame exacte où elle s'était arrêtée**, une page dédiée à la prise de rendez-vous, et un envoi de mail qui ne stocke volontairement aucune donnée de santé.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Lenis`
+
+### [HD Radar — Trainer de jeu](https://github.com/anissfhd/hd-radar-trainer)
+Un trainer pour un jeu de 2002 sans SDK ni code source : radar et ESP en surimpression, création et contrôle de jusqu'à 50 soldats, clonage de véhicules, et deux utilitaires qui donnent à l'hôte l'autorité sur l'IA ennemie en coopération LAN. Environ 35 000 lignes de C++, bâties sur des offsets et des signatures mesurés dans le processus en cours.
+
+`C++17` `Reverse engineering` `DirectX 9` `Dear ImGui` `Win32`
 
 ### [CDHubs — E-commerce de produits digitaux](https://github.com/anissfhd/cdhubs-digital-products)
 Une boutique de vente de produits numériques, en trois briques déployables : une API NestJS + Prisma sur 11 modèles, une console d'administration Next.js, et une vitrine statique bilingue français/arabe pensée pour l'hébergement mutualisé.

@@ -28,6 +28,11 @@ A year of hourly sensor readings, and two anomaly detectors that agree on only *
 
 `pandas` `scikit-learn` `Isolation Forest` `Ridge Regression` `Jupyter`
 
+### [AR 3D Menu](https://github.com/anissfhd/ar-3d-menu)
+A restaurant menu in augmented reality: photos of a dish become a real 3D model through photogrammetry, cleaned of stray fragments and rescaled to its **true size**, then placed on the diner's table from a QR code — no app, on both Android and iPhone. 101 passing tests.
+
+`Python` `Flask` `Photogrammetry` `model-viewer` `WebXR` `ARKit` `Blender`
+
 ### [Sales AI Platform — Specification](https://github.com/anissfhd/sales-ai-platform-specs)
 Design work rather than code: ~68,000 words defining an autonomous multi-country B2B prospecting platform a 13-stage company lifecycle, compliance as a hard gate, and a full vendor benchmark.
 
@@ -36,6 +41,16 @@ Design work rather than code: ~68,000 words defining an autonomous multi-country
 ---
 
 ## 💻 Software Development
+
+### [Psychologist Practice Website](https://github.com/anissfhd/cabinet-psychologue-website)
+A site built for anxious parents: one background video scrubbed by scroll, **frozen on each chapter and resumed on the exact frame it left**, a dedicated booking page, and an email route that deliberately stores no health data.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Lenis`
+
+### [HD Radar — Game Trainer](https://github.com/anissfhd/hd-radar-trainer)
+A trainer for a 2002 game with no SDK and no source: overlay radar and ESP, creation and control of up to 50 soldiers, vehicle cloning, and two helpers that give the host authority over enemy AI in LAN co-op. ~35,000 lines of C++ built on offsets and signatures measured in the running process.
+
+`C++17` `Reverse Engineering` `DirectX 9` `Dear ImGui` `Win32`
 
 ### [CDHubs — Digital Products E-commerce](https://github.com/anissfhd/cdhubs-digital-products)
 A storefront for selling digital goods, in three deployable pieces: a NestJS + Prisma API over 11 models, a Next.js admin console, and a bilingual French/Arabic static storefront built for shared hosting.
