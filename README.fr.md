@@ -9,7 +9,7 @@
 ## 🤖 IA & Machine Learning
 
 ### [Agentic Vectorial Graph RAG](https://github.com/anissfhd/agentic-vectorial-graph-rag)
-Un assistant documentaire sur une thèse scientifique de 206 pages qui **décide lui-même** comment répondre : recherche vectorielle, graphe de connaissances, les deux, ou « Je ne sais pas ». 7 méthodes de chunking et 7 modèles d'embedding réellement comparés, un graphe Neo4j Aura de 66 nœuds et 171 relations, et un agent Q-Learning orchestré par LangGraph.
+Un assistant documentaire sur une thèse scientifique de 206 pages qui **décide lui-même** comment répondre : recherche vectorielle, graphe de connaissances, les deux, ou « Je ne sais pas ». 7 méthodes de chunking et 7 modèles d'embedding réellement comparés, un graphe Neo4j Aura de 66 nœuds et 171 relations, et un agent Q-Learning orchestré par LangGraph. Chaque chiffre du README remonte à un artefact versionné — y compris celui qui dit que la fusion RRF a *dégradé* les résultats.
 
 `Python` `LangGraph` `FAISS` `Neo4j` `Q-Learning` `FastAPI` `React`
 
