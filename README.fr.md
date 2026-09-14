@@ -1,6 +1,6 @@
 # Bonjour, je suis Aniss 👋
 
-Étudiant ingénieur en 4ème année, spécialité **Intelligence Artificielle**. Je construis des systèmes de recherche documentaire, des agents IA et des applications full-stack.
+Étudiant ingénieur en 4ème année, spécialité **Intelligence Artificielle et Data Science**. Je construis des systèmes de recherche documentaire, des agents IA et des applications full-stack.
 
 🇬🇧 [English version](README.md)
 
