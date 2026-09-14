@@ -48,7 +48,7 @@ Membres, événements, entraînements, paiements et notifications au même endro
 `Django REST Framework` `Next.js` `JWT` `Tailwind CSS` `MySQL`
 
 ### [Azelle — Application d'échange linguistique](https://github.com/anissfhd/azelle-android)
-Application Android qui met en relation autour de l'échange linguistique. Un onboarding guidé en 10 étapes construit un profil linguistique, langue maternelle, langues apprises avec un niveau pour chacune — avec une progression persistée côté serveur : fermer l'application en cours d'inscription reprend là où on s'était arrêté.
+Application Android qui met en relation autour de l'échange linguistique. Un onboarding guidé en 10 étapes construit un profil linguistique, langue maternelle, langues apprises avec un niveau pour chacune avec une progression persistée côté serveur : fermer l'application en cours d'inscription reprend là où on s'était arrêté.
 
 `Kotlin` `Jetpack Compose` `Material 3` `Supabase`
 
