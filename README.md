@@ -1,6 +1,13 @@
-# Hi, I'm Aniss 👋
+# About Me
 
-5th-year engineering student, **Artificial Intelligence And Data Science** specialization. I build retrieval systems, AI agents and full-stack applications.
+I am Anss, a 5th-year engineering student specializing in Artificial Intelligence and Data Science.
+
+Artificial intelligence has profoundly transformed my vision and my journey. While many use it solely to gain speed, I place paramount importance on design and originality. Today, we observe a standardization of AI-generated applications; my strength lies in my ability to go against the grain through a deep mastery of tools and continuous monitoring of global market trends.
+
+I dedicate a large part of my time to exploring, testing, and pushing the boundaries of the latest AI innovations to bring creative and unique projects to life—rarely seen online.
+
+Explore My Portfolio
+I invite you to browse my projects below. For each one, a short introductory video is available to give you a concrete overview of the application's features and added value.
 
 🇫🇷 [Version française](README.fr.md)
 
