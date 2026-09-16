@@ -1,6 +1,6 @@
 # À propos de moi
 
-Bonjour, je suis Aniss, étudiant en 5e année d'ingénierie spécialisé en Intelligence Artificielle et Science des Données, je conçois et développe des systèmes de recherche d'information (RAG), des agents IA et des applications full-stack.
+Bonjour, je suis Aniss, étudiant en 5e année d'ingénierie spécialisé en Intelligence Artificielle et Science des Données.
 
 L'intelligence artificielle a profondément transformé ma vision et mon parcours. Alors que beaucoup l'utilisent uniquement pour gagner en vitesse, j'accorde une importance primordiale à la conception et à l'originalité. Aujourd'hui, on observe une standardisation des applications générées par l'IA ; ma force réside dans ma capacité à aller à contre-courant grâce à une maîtrise approfondie des outils et une veille technologique constante sur le marché mondial.
 
