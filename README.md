@@ -1,6 +1,6 @@
 # About Me
 
-I am Anss, a 5th-year engineering student specializing in Artificial Intelligence and Data Science.
+I'm Aniss, a 5th-year engineering student specializing in Artificial Intelligence and Data Science.
 
 Artificial intelligence has profoundly transformed my vision and my journey. While many use it solely to gain speed, I place paramount importance on design and originality. Today, we observe a standardization of AI-generated applications; my strength lies in my ability to go against the grain through a deep mastery of tools and continuous monitoring of global market trends.
 
