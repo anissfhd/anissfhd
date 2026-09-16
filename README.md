@@ -13,7 +13,7 @@ I invite you to browse my projects below. For each one, a short introductory vid
 
 ---
 
-## 🤖 AI & Machine Learning
+## AI & Machine Learning
 
 ### [Agentic Vectorial Graph RAG](https://github.com/anissfhd/agentic-vectorial-graph-rag)
 A document assistant over a 206-page scientific thesis that **decides for itself** how to answer: vector search, knowledge graph, both, or "I don't know". 7 chunking methods and 7 embedding models actually benchmarked, a Neo4j Aura graph with 66 nodes and 171 relations, and a Q-Learning agent orchestrated by LangGraph. Every number in the README traces back to a committed artifact including the one that says RRF fusion made things *worse*.
@@ -47,7 +47,7 @@ Design work rather than code: ~68,000 words defining an autonomous multi-country
 
 ---
 
-## 💻 Software Development
+## Software Development
 
 ### [Psychologist Practice Website](https://github.com/anissfhd/cabinet-psychologue-website)
 A site built for anxious parents: one background video scrubbed by scroll, **frozen on each chapter and resumed on the exact frame it left**, a dedicated booking page, and an email route that deliberately stores no health data.
