@@ -14,7 +14,7 @@ Je vous invite à parcourir mes projets ci-dessous. Pour chacun d'eux, une court
 
 ---
 
-## 🤖 IA & Machine Learning
+## IA & Machine Learning
 
 ### [Agentic Vectorial Graph RAG](https://github.com/anissfhd/agentic-vectorial-graph-rag)
 Un assistant documentaire sur une thèse scientifique de 206 pages qui **décide lui-même** comment répondre : recherche vectorielle, graphe de connaissances, les deux, ou « Je ne sais pas ». 7 méthodes de chunking et 7 modèles d'embedding réellement comparés, un graphe Neo4j Aura de 66 nœuds et 171 relations, et un agent Q-Learning orchestré par LangGraph. Chaque chiffre du README remonte à un artefact versionné y compris celui qui dit que la fusion RRF a *dégradé* les résultats.
@@ -48,7 +48,7 @@ Un travail de conception plutôt que du code : environ 68 000 mots définissant 
 
 ---
 
-## 💻 Développement logiciel
+## Développement logiciel
 
 ### [Site d'un cabinet de psychologie](https://github.com/anissfhd/cabinet-psychologue-website)
 Un site pensé pour des parents inquiets : une vidéo de fond pilotée par le scroll, **figée sur chaque chapitre puis relancée à la frame exacte où elle s'était arrêtée**, une page dédiée à la prise de rendez-vous, et un envoi de mail qui ne stocke volontairement aucune donnée de santé.
